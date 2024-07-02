@@ -1,4 +1,4 @@
-import { heroBg } from "../../../assets";
+import trip  from "../../../assets";
 
 const Hero = () => {
   return (
@@ -15,7 +15,7 @@ const Hero = () => {
       </div></div>
       
       <div className="w-1/2">
-        <img src={heroBg} alt="Hero background"
+        <img src={trip} alt="Trip"
         className="object-cover w-full h-full"
         />
       </div>
